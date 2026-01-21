@@ -1,4 +1,6 @@
 [![CI](https://github.com/justinsamuel22/secure-fastapi-ci/actions/workflows/ci.yaml/badge.svg)](https://github.com/justinsamuel22/secure-fastapi-ci/actions/workflows/ci.yaml)
+[![Known Vulnerabilities](https://snyk.io/test/github/justinsamuel22/secure-fastapi-ci/badge.svg)](https://snyk.io/test/github/justinsamuel22/secure-fastapi-ci)
+
 # Secure FastAPI CI Demo
 
 
